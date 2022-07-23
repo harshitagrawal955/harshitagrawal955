@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Harshit!!
- Hi there  !!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there  !!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+## Harshit Here
+-    I am Final Year Undergrad   
 - 👀 I’m interested in Coding!!
 - 🌱 I’m currently learning Android Dev!!
 
