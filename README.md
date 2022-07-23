@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Harshit!!
+ Hi there  !!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 - 👀 I’m interested in Coding!!
 - 🌱 I’m currently learning Android Dev!!
 
