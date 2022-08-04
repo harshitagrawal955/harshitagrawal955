@@ -14,7 +14,6 @@
 &emsp;
 <a target="_blank" href="https://www.instagram.com/harshu_955/?hl=en"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width = "100" height = "30"></img></a>
 &emsp;
-<a target="_blank" href="https://leetcode.com/harshu_955/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width = "100" height = "30" ></img></a>
 &emsp;
 
 <!---
