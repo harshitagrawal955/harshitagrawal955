@@ -17,7 +17,7 @@
 <a href="https://github.com/belelaritra"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 </p>
 
-<h2>:woman_technologist: Tech I Have Worked/Working On </h2>
+
 
 
 
