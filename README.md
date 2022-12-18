@@ -7,10 +7,7 @@
 
 <h2> ⚡ Reach Me Out!!</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitkashyap9a6b55/)
-[![GMAIL Badge](https://img.shields.io/badge/-Mail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:kumarharshit9500@gmail.com)
-[![stack-overflow](https://img.shields.io/badge/-StackOverflow-cb410b?style=for-the-badge&labelColor=&logo=stackoverflow&logoColor=black)](https://stackoverflow.com/users/16164555/harshit-kumar)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-cb410b?style=for-the-badge&labelColor=&logo=leetcode&logoColor=black)](https://leetcode.com/pikaachuuu/)
+
 <br>
 <p align="left">
  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering;Learning+Java+Brushing+up+Cpp+%26+Python.." /></a>
